@@ -5,7 +5,7 @@
 ### Front End Development
 
 [Single page Bootstrap website](/sample_page)
-<img src="images/Screenshot_20200627-082230_Firefox.jpg?raw=true"/>
+<img src="images/20201026_161907.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
