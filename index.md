@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Front End Development
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Single page Bootstrap website](/sample_page)
+<img src="images/Screenshot_20200627-082230_Firefox.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
