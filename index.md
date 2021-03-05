@@ -48,19 +48,19 @@ Alexith and Mojo: cartoon designs
 
 ---
 
-Weird new designs of randoms - design 1
+Weird new design of randoms - design 1
 <br><br>
 <img src="images/1612119742634.png?raw=true"/>
 
 ---
 
-Weird new designs of randoms - design 2
+Weird new design of randoms - design 2
 <br><br>
 <img src="images/1611468736807.png?raw=true"/>
 
 ---
 
-Weird new designs of randoms - design 3
+Weird new design of randoms - design 3
 <br><br>
 <img src="images/1607833361325.png?raw=true"/>
 
