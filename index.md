@@ -2,7 +2,7 @@
 
 ---
 
-### Developer
+### Dev
 
 Single page Bootstrap website 
 <br><br>
@@ -22,3 +22,53 @@ Kylie - React app
 
 ---
 
+
+ChillSeverus: Game chararcter designed in blender
+<br><br>
+<img src="images/game Char.png?raw=true"/>
+
+---
+
+
+Short Blender Animation 
+<br><br>
+<img src="images/render0000-0025.mp4?raw=true"/>
+
+
+---
+
+Alexith and Mojo: cartoon designs made with blender
+<br><br>
+<img src="images/alexithcars22.jpg?raw=true"/>
+
+---
+
+Alexith and Mojo: cartoon designs
+<br><br>
+<img src="images/alexith-image1.jpg?raw=true"/>
+
+---
+
+Alexith and Mojo: cartoon designs
+<br><br>
+<img src="images/alexith and mojo sitting in living room new.jpg?raw=true"/>
+
+---
+
+Weird new designs of randoms - design 1
+<br><br>
+<img src="images/1612119742634.png?raw=true"/>
+
+---
+
+Weird new designs of randoms - design 2
+<br><br>
+<img src="images/1611468736807.png?raw=true"/>
+
+---
+
+Weird new designs of randoms - design 3
+<br><br>
+<img src="images/1607833361325.png?raw=true"/>
+
+---
