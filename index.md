@@ -10,4 +10,15 @@ Single page Bootstrap website
 
 ---
 
+Image gallery
+<br><br>
+<img src="images/ChillSeverus.png?raw=true"/>
+
+---
+
+Kylie - React app
+<br><br>
+<img src="images/kylie.png?raw=true"/>
+
+---
 
