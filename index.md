@@ -27,13 +27,6 @@ ChillSeverus: Game chararcter designed in blender
 <br><br>
 <img src="images/game Char.png?raw=true"/>
 
----
-
-
-Short Blender Animation 
-<br><br>
-<img src="images/render0000-0025.mp4?raw=true"/>
-
 
 ---
 
