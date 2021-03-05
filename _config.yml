@@ -1,30 +1,31 @@
 title: Akshay Chaudhary # your name (or website title) here
 logo: "/images/Profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Front-End Developer (HTML and JS)
-
+  Developer
+  <br><br>
   Writer
-
-  Cartoonist 
-
-  Electronic musician (2017 -
-
-  I use blender grease pencil for my  2d art but prev. used macromedia flash.
-
+  <br><br>
+  Cartoonist
+  <br><br>
+  Electronic musician
+  <br><br>  
+  I use blender for my  2d cartoons.
+  <br><br>
   Downtempo music producer @Alexith
-
-  my music releases
+  <br><br>
+  my music releases: <br>
   apple.co/2wX5h6b
-
+  <br><br>
   open.spotify.com/artist/4GMEwNWTi3xbw7DT488Nog 
-
-  I am a Debian Linux user
-
+  <br><br>
+  I am a debian linux user
+  <br><br>
   www.instagram.com/alexithmusic
-
+  <br><br>
   alexith.bandcamp.com
   <br><br>
-  <a href="https://www.linkedin.com/in/akshaycy">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/akshaycy">LinkedIn</a> 
+  Support:<br>
+  paypal.me/akshaycy
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
